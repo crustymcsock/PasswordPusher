@@ -21,6 +21,7 @@ end
 
 gem 'json', '~> 2.0'
 gem 'haml'
+gem 'devise'
 gem 'haml-rails'
 gem 'therubyracer'
 gem 'ezcrypto', :git => 'https://github.com/pglombardo/ezcrypto.git'
